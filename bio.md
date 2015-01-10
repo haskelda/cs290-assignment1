@@ -15,3 +15,5 @@
 * I also enjoy being outside, during all seasons
 
 ###Programming Background:
+
+I had an early childhood interest in programming.  I took a few courses as an undergrad (Java, C++)
