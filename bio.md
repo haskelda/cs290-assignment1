@@ -19,3 +19,5 @@
   - Hiking and camping in the summer
 
 ###Programming Background:
+
+I decided to go back and change this part.  Lucky I'm using Git!
