@@ -19,3 +19,9 @@
   - Hiking and camping in the summer
 
 ###Programming Background:
+
+- I had an early childhood interest in programming.  
+- I took a few courses as an undergrad (Java, C++).  
+- I have a BS in physics.  I used LabView a little.
+- Last summer I worked as a Software Testing Intern.
+- I really enjoyed CS 271 Assembly and Architecture
