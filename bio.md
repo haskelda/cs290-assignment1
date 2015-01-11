@@ -7,6 +7,8 @@
 * I have a family and a dog
   - The dog's name is Pepe
 * We also have two cats
+  - Jack
+  - Lily
 
 ###Hobbies and Interests:
 
